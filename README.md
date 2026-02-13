@@ -1,5 +1,7 @@
 # Worker Management System (Google Apps Script)
 
+> **Note:** This is the official repository for this project, created and maintained by **Rahul Sonawane**.
+
 This is a simple yet effective Worker Management System built using Google Apps Script. It provides a web-based interface for managing worker details, tracking daily attendance, correcting past entries, and generating pay reports for specified date ranges.
 
 ## Features
